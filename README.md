@@ -1,6 +1,6 @@
 # Contador en el lado cliente
 
-** El contador NO pierde el estado al cambiar de página. **
+**Contador que NO pierde el estado al cambiar de página.**
 
 Para ello se guarda el valor en el **sessionStorage** haciendo uso de:
 - **sessionStorage.setItem** para guardar valor
